@@ -4,6 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Czf</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/czf/Shared</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/czf/Shared</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
